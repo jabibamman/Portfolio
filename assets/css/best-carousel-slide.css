@@ -1,0 +1,82 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  margin-bottom: 0;
+}
+
+div.jumbotron.cd-accueil {
+  background-image: url('../../assets/img/projets/chakal-drip/chakalDrip-Accueil.png?h=27df187494abde073ff74c8eb7919238');
+}
+
+div.jumbotron.cdClothes {
+  background-image: url('../../assets/img/projets/chakal-drip/chakalDrip-panier.png?h=4e7b5461e1949586014a1b7c1748fa74');
+}
+
+div.jumbotron.cd-shop {
+  background-image: url('../../assets/img/projets/chakal-drip/chakalDrip-Shop.png?h=8b5c569277636e06277cebb1b806eddc');
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/projets/chakal-drip/chakalDrip-inscription.png?h=795949922300715920dec866f52d31d4');
+}
+
+div.jumbotron.cd-produit {
+  background-image: url('../../assets/img/projets/chakal-drip/chakalDrip-Produit.png?h=525e9f2c8c58f594d2aa45624aa45858');
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/projets/chakal-drip/chakalDrip-connexion.png?h=a3398c6e0734e4a46bee90cb7bf5f2a4');
+}
+
+.plat {
+  border-radius: 0px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 0 #048f83!important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #016090;
+  border-color: #016090;
+}
+
+.btn.btn-primary {
+  background-color: #048f83!important;
+  border-color: #048f83!important;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,.5);
+}
+
+* {
+  /*box-sizing: inherit;*/
+}
+
+*:before, *:after {
+  /*box-sizing: inherit;*/
+}
+
+span {
+  font-style: inherit;
+  font-weight: inherit;
+}
+
+.carousel-control-next {
+  margin-top: 2.5vh;
+}
+
+.carousel-control-next {
+  margin-top: 2.5vh;
+}
+
+.carousel-indicators li {
+  background-color: black;
+  opacity: 0.2;
+}
+
