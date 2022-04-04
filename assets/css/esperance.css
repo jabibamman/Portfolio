@@ -21,7 +21,7 @@ a {
 header {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(to bottom, rgba(0,0,0,.8), rgba(0,0,0,.5)), url("../../assets/img/projets/esperance/main3.jpg?h=78dc98c4e27094fa316fda11a224f0f9") center no-repeat;
+  background: linear-gradient(to bottom, rgba(0,0,0,.8), rgba(0,0,0,.5)), url("../../assets/img/projets/esperance/main3.jpg") center no-repeat;
   background-size: cover;
   position: relative;
   overflow: hidden;
